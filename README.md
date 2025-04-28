@@ -4,15 +4,16 @@ A lightweight personal expense tracker that parses GPay UPI transactions (`Paid`
 Built with **React**, **Recharts**, and **TailwindCSS** — no AI, no backend, just clean and simple expense tracking!
 
 ## Features
-
 - 📄 Upload GPay HTML exports (convertible to CSV)
 - 📊 Visualize large transactions (₹2000 and above)
 - 🔍 Filter by amount, date, and transaction type
 - 📈 Dynamic charts and tables for better insights
 - ⚡ Fast, offline-first, beginner-friendly design
 
-## Tech Stack
+## Live Demo
+[View Live Demo](https://expenseinsight.vercel.app)
 
+## Tech Stack
 - Frontend: React, TailwindCSS
 - Charts: Recharts
 - State Management: React Hooks
@@ -20,14 +21,16 @@ Built with **React**, **Recharts**, and **TailwindCSS** — no AI, no backend, j
 ## Getting Started
 
 ### Prerequisites
-
 - Node.js and npm installed
 
-### Installation
+## Deployment
+This project is deployed on Vercel. Any changes pushed to the main branch will automatically deploy
 
+### Installation
 ```bash
 git clone https://github.com/your-username/gpay-upi-expense-tracker.git
 cd gpay-upi-expense-tracker
 npm install
 npm start
->>>>>>> e8a4b715ad1a3df69789e430b171e9c8e894fe20
+
+
