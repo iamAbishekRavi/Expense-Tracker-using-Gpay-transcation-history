@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# GPay UPI Expense Tracker
+# Expense Insight (GPay UPI Expense Tracker)
 
 A lightweight personal expense tracker that parses GPay UPI transactions (`Paid`/`Sent`) and visualizes spending with filters, tables, and charts.  
 Built with **React**, **Recharts**, and **TailwindCSS** — no AI, no backend, just clean and simple expense tracking!
